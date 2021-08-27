@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Nano-X-ESP-rescue)(type Legacy)(uri "${KIPRJMOD}/Nano X ESP-rescue.lib")(options "")(descr ""))
+)
