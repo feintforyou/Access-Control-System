@@ -1,0 +1,10 @@
+https://www.reddit.com/r/esp32/comments/92l6pn/can_i_lay_ground_pour_under_the_espwroom32s/
+
+footprint 
+		imperial	metric
+tantalum cap 	1206		3216
+resistor	0805		2012
+ceramic cap	0805		2012
+
+transistor 
+2n2222		SOT23
